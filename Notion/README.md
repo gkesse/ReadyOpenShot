@@ -27,4 +27,4 @@ Produit par
 
 # Supprimer Objet
 * Clic Droit
-* Supprimer Objet
+* Supprimer du Projet
