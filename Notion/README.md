@@ -37,3 +37,16 @@ Produit par
 # Supprimer Objet
 * Clic Droit
 * Supprimer du Projet
+
+# Exporter Vidéo
+* Exporter Vidéo
+* Nom Fichier
+* NOM_VIDEO
+* Destination
+* MP4 (H.264)
+* Profil Vidéo
+* 1024 x 576 16:9 PAL (1024 x 576)
+* Qualité
+* Moyenne
+* Exporter Vidéo
+
