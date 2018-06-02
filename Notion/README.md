@@ -7,14 +7,14 @@ Produit par
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
 # Installer Blender
-Edition
-Préférences
-Commande Blender (Chemin)
-C:\Program Files\Blender Foundation\Blender\blender.exe
-Editeur Titre Avancé (Chemin)
-C:\Program Files\Inkscape\inkscape.exe
-Fermer
+* Edition
+* Préférences
+* Commande Blender (Chemin)
+* C:\Program Files\Blender Foundation\Blender\blender.exe
+* Editeur Titre Avancé (Chemin)
+* C:\Program Files\Inkscape\inkscape.exe
+* Fermer
 
 # Supprimer Objet
-Clic Droit
-Supprimer Objet
+* Clic Droit
+* Supprimer Objet
