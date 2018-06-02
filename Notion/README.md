@@ -25,6 +25,15 @@ Produit par
 * C:\Program Files\Inkscape\inkscape.exe
 * Fermer
 
+# Créer Nouveau Projet
+* Fichier
+* Nouveau Projet
+* Fichier
+* Enregistrer Projet Sous
+* Nom Fichier
+* NOM_PROJET.osd
+* Enregistrer
+
 # Supprimer Objet
 * Clic Droit
 * Supprimer du Projet
